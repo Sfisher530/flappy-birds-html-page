@@ -18,8 +18,6 @@
 
 <br>
 
-<section>
-
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <style>
@@ -165,13 +163,10 @@ function accelerate(n) {
 <nav>
 <ul>
 <li><a href="https://storage.googleapis.com/files.gamefroot.com/users/4080924/games/210107/gamefroot-2020-4-20T20-39-41.190Z/index.html">Gamefroot: Stop the Spread</a></li>
-<li><a href="">Purchase Game</a></li>
-<li><a href="#">Home</a></li>
+<li><a href="#">Top of the Page</a></li>
 </ul>
 </nav>
 
 </footer>
-
 </body>
-
 </html>
